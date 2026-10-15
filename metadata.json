@@ -1,0 +1,6 @@
+{
+  "name": "BOT CISEB — Guia de Tecnologia e Inovação da Rede Estadual de Ensino do Pará",
+  "description": "Assistente técnico de tecnologia, inovação e currículo da rede estadual de ensino do Pará. Consulta documentos curriculares oficiais e elabora planos de aula, sequências didáticas e alinhamentos curriculares com rigor e fidelidade documental.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
